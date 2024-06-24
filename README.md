@@ -5,7 +5,8 @@
     
    (a) Implement the steepest descent method with the line search algorithm from $\(x_1^{(0)},x_2^{(0)}\) = \[-1.2,1.0]\^T$ . Please plot the trace $\(x_1^{(k)},x_2^{(k)}\)$.
    (b) Implement Newton’s method with the line search algorithm from  $\(x_1^{(0)},x_2^{(0)}\) = \[-1.2,1.0]\^T$ . Please plot the trace $\(x_1^{(k)},x_2^{(k)}\)$ and compare the result with (a).  
-   
+![image](optimization_HW1_312512032/HW1.png)
+
 ## HW2: Implement Genetic Algorithm 、Particle Swarm Optimization and Cuckoo Algorithm to find out minimum then comapre the result.  
 ### 1. Given the Rosenbrock function $$f(x) = 100 (x_2 - x_1^2)^2 + (1-x_1) ^2$$ , whose minimizer is at $\[1.0,1.0]\^T$ .
 
