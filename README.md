@@ -26,7 +26,7 @@
 |Bit size|NaN|NaN|32|
 |Best f(x)|4.89272e-22|0.00010862|0.0163778|  
 
-![image](optimization_HW2_312512032/fig_0/mix0)  
+![image](optimization_HW2_312512032/fig_0/mix0.svg)  
 
 In this experiment, the implementation difficulty is arranged from low to high as PSO,
 CS, GA. However, due to the low-dimensional and simple nature of the test functions
@@ -44,6 +44,6 @@ identical.)
 |Best f(x)|3.9798362|0.25541|0.11503| 
 
 
-![image](optimization_HW2_312512032/fig_0/mix1)  
+![image](optimization_HW2_312512032/fig_0/mix1.svg)  
 
 In this experiment, the parameters for each algorithm are the same as in the previous experiment, but the dimensionality of the test function is increased, and there is a significant number of local extrema. In this situation, the advantages of GA over other algorithms become evident.
